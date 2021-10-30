@@ -13,7 +13,7 @@ public class Calculator {
         x = scan.nextInt();
         System.out.println("Input y");
         y = scan.nextInt();
-        System.out.println("Input operetion");
+        System.out.println("Input operation");
         s = scan.next();
 
         switch(s)
